@@ -5,15 +5,15 @@ import randomColor from 'randomcolor';
 
 // let hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F'];
 
-/*function getHex() {
+/* function getHex() {
   let hexColor = '#';
   for (let i = 0; i < 6; i++) {
     hexColor += hex[Math.floor(Math.random() * 16)];
     console.log(hexColor);
   }
 }
-getHex(); */
-/*
+getHex(); 
+
 // get a random color: 
 function repeatHashtag() {
   console.log(chalk.hex(color)('#'.repeat(31)));
