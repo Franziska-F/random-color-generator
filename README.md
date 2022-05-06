@@ -6,7 +6,7 @@
 $ node index.js
 ```
 
-![screenshot](sreenshot/random-color.png)
+![screenshot](sreenshots/random-color.png)
 
 - If a hue is added, a random hue of this color will appear.
 
@@ -14,7 +14,7 @@ $ node index.js
 $ node index.js red
 ```
 
-![screenshot](sreenshot/random-red.png)
+![screenshot](sreenshots/random-red.png)
 
 - If hue and dark is added, it will show a random dark color.
 
@@ -22,7 +22,7 @@ $ node index.js red
 $ node index.js red dark
 ```
 
-![screenshot](sreenshot/random-red-dark.png)
+![screenshot](sreenshots/random-red-dark.png)
 
 ```
 - If hue and light is added, it will show a random light color.
@@ -32,7 +32,7 @@ $ node index.js red dark
 $ node index.js blue light
 
 ```
-![screenshot](sreenshot/random-blue-light.png)
+![screenshot](sreenshots/random-blue-light.png)
 
 
 ```
